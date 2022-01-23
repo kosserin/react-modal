@@ -1,0 +1,9 @@
+.user {
+  padding: 1rem;
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.user p {
+  pointer-events: none;
+}

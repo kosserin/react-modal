@@ -1,0 +1,10 @@
+button {
+  height: 2.5rem;
+  cursor: pointer;
+  background-color: black;
+  border: none;
+  outline: none;
+  color: wheat;
+  border-radius: 3px;
+  min-width: 10rem;
+}
